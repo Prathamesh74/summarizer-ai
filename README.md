@@ -1,1 +1,1 @@
-this is a ai summarizer AI.
+this is a ai summarizer bot.
